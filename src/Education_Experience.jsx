@@ -4,9 +4,12 @@ const Experience = (
     <div>
       <h4>Objective</h4>
       <p>
-        Hardworking and passionate job seeker with strong organizational skills
-        eager to secure entry-level Frontend developer position. Ready to help
-        team achieve company goals.
+        Enthusiastic and dedicated professional with a background in content
+        moderation, seeking to leverage strong problem-solving abilities and
+        attention to detail to pursue a career as a Frontend Developer. Eager to
+        contribute frontend development skills and passion for creating
+        user-friendly interfaces to drive innovation and enhance user
+        experiences.
       </p>
     </div>
     <h4 className="my-3">Work Experience</h4>
