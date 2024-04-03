@@ -16,7 +16,7 @@ function Skills() {
                     <div className="flip-card-inner">
                       <div className={`flip-card-front ${language} `}>
                         <h6 className="text-white text-capitalize">
-                          {stack_name}
+                          {language}
                         </h6>
                         <figure>
                           <Stack_image className="card-figure" />
